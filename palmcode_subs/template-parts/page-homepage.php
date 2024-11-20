@@ -117,7 +117,7 @@
                 gibt es seit dem 1.10.1990. Unseren Kunden bieten wir einen 24-Stunden-Service an. Alle Zulassungen, die man für eine erfolgreiche Arbeit auf dem Gebiet der elektronischen Sicherheitstechnik benötigt, sind vorhanden
                 </div>
             </div>
-            <div class="col-md-6 order-first">
+            <div class="col-md-6">
                 <img src="<?php echo get_template_directory_uri(); ?>/images/unser.png">
             </div>
         </div>
